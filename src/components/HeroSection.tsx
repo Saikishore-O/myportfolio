@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowDown, Download, Mail } from "lucide-react";
+import { ArrowDown, ExternalLink, Mail } from "lucide-react";
 
 const HeroSection = () => {
   return (
